@@ -19,7 +19,7 @@ Welcome to the React Text Analysis Tool! This app provides a clean UI with vario
 
 To use the React Text Analysis Tool:
 
-1. Visit [link-to-your-website] in your web browser.
+1. Visit https://text-manipulator730.netlify.app/ in your web browser.
 
 To run this project locally:
 
